@@ -1,0 +1,72 @@
+{
+  "responsive": true,
+  "glyph-icons": true,
+  "description": "Malmo is a sleek theme with a subtle pop of color to accent its clean, unfussy design. Minimalist and welcoming, Malmo is the perfect showcase for your modern storefront, portfolio, or personal site.",
+  "enableEditorJS": true,
+  "features": [
+    "responsive",
+    "css-buttons",
+    "social-icons",
+    "color-palettes",
+    "light-dark-palettes",
+    "navigation-top",
+    "navigation-fixed",
+    "sections",
+    "full-width-header"
+  ],
+  "page-types": {
+    "landing": {
+      "header-section": {
+        "resizable": false
+      }
+    }
+  },
+  "color-support": {
+    "primary": "#edcaad"
+  },
+  "color-presets": [
+    {
+      "primary": "#edcaad"
+    },
+    {
+      "primary": "#4cd2c8"
+    },
+    {
+      "primary": "#8659ae"
+    },
+    {
+      "primary": "#e9602a"
+    },
+    {
+      "primary": "#42a8dc"
+    },
+    {
+      "primary": "#53bd61"
+    }
+  ],
+  "variations": [
+    {
+      "value": "light",
+      "sample": "#fff",
+      "is-dark": false
+    },
+    {
+      "value": "dark",
+      "sample": "#000",
+      "is-dark": true
+    }
+  ],
+  "page-types": {
+    "splash": {
+      "header-section": {
+        "resizable": false
+      }
+    },
+    "landing": {
+      "header-section": {
+        "resizable": false
+      }
+    }
+
+  }
+}
